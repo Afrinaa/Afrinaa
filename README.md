@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently doing my Bachelor's in Computer Science and Engineering in Bangladesh University of Business and Technology. I'm learning and exploring new things everyday and searching for my passion.  
+I am currently doing my Bachelor's in Computer Science and Engineering at Bangladesh University of Business and Technology. I'm learning and exploring new things everyday and searching for my passion.  
 
 
 ## 🌐 Socials:
