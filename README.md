@@ -1,6 +1,8 @@
 # 💫 About Me:
 I am currently doing my Bachelor's in Computer Science and Engineering at Bangladesh University of Business and Technology. I'm learning and exploring new things everyday and searching for my passion.  
 
+## Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/Afrinaa/count.svg)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/afrina141) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/afri_naaaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/afrina141mim) 
